@@ -1,0 +1,14 @@
+.card{
+    font-family: sans-serif;
+ border: 1px solid grey;
+ border-radius:5px;
+ padding: 1rem;
+ display:flex;
+ width:50%;
+}
+.basicDetail{
+    width:60%;
+}
+.addressDetails{
+    margin-left:20px;
+}
